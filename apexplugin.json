@@ -1,0 +1,31 @@
+{
+  "name": "Dynamic JS Tree",
+  "version": "1.0",
+  "description": "A dynamic tree loaded via AJAX",
+  "keywords": ["dynamic", "tree", "AJAX"],
+  "homepage": "https://github.com/DomiDenie/oracle-apex-ajax-js-tree",
+  "bugs": {
+    "url": "https://github.com/DomiDenie/oracle-apex-ajax-js-tree/issues",
+    "email": "dominique.denie@telenet.be"
+  },
+  "license": "MIT",
+  "commercial": "No",
+  "author": {
+    "name": "Dominique Denie",
+    "email": "dominique.denie@telenet.be"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DomiDenie/oracle-apex-ajax-js-tree.git"
+  },
+  "oracle": {
+    "versions": ["11.2.0.1", "12.1.0.1"],
+    "apex": {
+      "versions": ["5.1.0"],
+      "plugin": {
+        "internalName": "DENIEDO.DYNAMIC_JS_TREE_CODE",
+        "type": "region"
+      }
+    }
+  }
+}
