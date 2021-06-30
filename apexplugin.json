@@ -1,6 +1,6 @@
 {
   "name": "Dynamic JS Tree",
-  "version": "1.0",
+  "version": "2.0",
   "description": "A dynamic tree loaded via AJAX",
   "keywords": ["dynamic", "tree", "AJAX"],
   "homepage": "https://github.com/DomiDenie/oracle-apex-ajax-js-tree",
@@ -25,7 +25,7 @@
       "plugin": {
         "internalName": "DENIEDO.DYNAMIC_JS_TREE_CODE",
         "type": "region",
-        "previewImage": "https://user-images.githubusercontent.com/5206375/121477934-ba3af400-c9c8-11eb-924d-de116a11eb84.gif",
+        "previewImage": "https://user-images.githubusercontent.com/5206375/123914838-22557800-d980-11eb-97fc-b63414b0c98f.gif",
         "demo": "https://rxzwovgxaqhm6at-dbdomi.adb.eu-frankfurt-1.oraclecloudapps.com/ords/f?p=100:4"
       }
     }
