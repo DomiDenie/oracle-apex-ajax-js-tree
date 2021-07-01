@@ -24,6 +24,12 @@ Whenever a node is opened on this tree, the children will be loaded via AJAX
 - Expand/colapse all
 - Scroll to selected node when the page loads ( configurable )
 
+### 2.0.1
+
+<u>Solved bugs</u>
+
+- Loader disappeared to quickly when doing an "Expand all"
+
 # Example
 
 ![tree_example](https://user-images.githubusercontent.com/5206375/123914838-22557800-d980-11eb-97fc-b63414b0c98f.gif)
