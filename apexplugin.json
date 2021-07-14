@@ -1,6 +1,6 @@
 {
   "name": "Dynamic JS Tree",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A dynamic tree loaded via AJAX",
   "keywords": ["dynamic", "tree", "AJAX"],
   "homepage": "https://github.com/DomiDenie/oracle-apex-ajax-js-tree",
